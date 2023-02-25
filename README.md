@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
+- Live Site URL: [Add live site URL here](https://mohamedmofid.github.io/NFT-preview-card-component/)
 
 ## My process
 
@@ -46,5 +46,5 @@ Use this section to recap over some of your major learnings while working throug
 
 ## Author
 
-- Website - [Momamed Mofid](https://www.your-site.com)
+- Github - [Momamed Mofid](https://github.com/mohamedmofid)
 - Frontend Mentor - [@mohamedmofid](https://www.frontendmentor.io/profile/mohamedmofid)
