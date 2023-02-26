@@ -72,7 +72,7 @@ body {
     right: 0;
 } */
 
-.card .image a img {
+.card .image img {
     max-width: 100%;
     border-radius: 6px;
 }
